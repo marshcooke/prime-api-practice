@@ -15,7 +15,7 @@
 
 ## Stretch Goals
 
-- Add the front end to hit the route and display data on the dom.
-- Users should also be able to search for a giphy using a keyword. Results should be displayed on the DOM.
-- Previous and next buttons for search results (using the Giphy API for pagination).
-- Once all the functionality is complete, do some styling with Bootstrap.
+[ ] Add the front end to hit the route and display data on the dom.
+[ ] Users should also be able to search for a giphy using a keyword. Results should be displayed on the DOM.
+[ ] Previous and next buttons for search results (using the Giphy API for pagination).
+[ ] Once all the functionality is complete, do some styling with Bootstrap.
