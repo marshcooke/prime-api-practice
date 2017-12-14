@@ -11,7 +11,7 @@
 [X] Use the npm library request to hit the giphy api.
 [X] Use dotenv package to obscure the api key.
 [X] Create a route to request and send back the data to the client.
-[Xf] Test the route with POST Man or in the browser.
+[X] Test the route with POST Man or in the browser.
 
 ## Stretch Goals
 
